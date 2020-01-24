@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab1</string>
-    <string name="hello_message">Xin Chao!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="app_name">Lab2</string>
+    <string name="hello_message">Nhin Vao Anh Cua Toi!</string>
+    <string name="ButtonText">BAM VAO DAY</string>
+    <string name="Checkbox">CHON CAI NAY!</string>
+    <string name="Switch">CHUYEN BAT/DONG</string>
+    <string name="Type_here">Viet vao day</string>
+    <string name="toast_message">Them nhieu thong tin hon</string>
+    <string name="check_message_true">Kiem tra dang ON</string>
+    <string name="check_message_false">Kiem tra dang OFF</string>
+    <string name="switch_message_true">Doi sang ON</string>
+    <string name="switch_message_false">Doi sang OFF</string>
+    <string name="setAction_message">Quay lai</string>
+
 </resources>
