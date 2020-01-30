@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lab3</string>
-    <string name="TextView1">Enter your email address</string>
-    <string name="TextView2">Type your password</string>
-    <string name="Button">LOGIN</string>
+    <string name="TextView1" translatable="false">Enter your email address</string>
+    <string name="TextView2" translatable="false">Type your password</string>
+    <string name="Email" translatable="false">Type email here</string>
+    <string name="PassWord" translatable="false">Type your password</string>
+    <string name="Login">LOGIN</string>
+    <string name="yourProfile">Your profile</string>
+    <string name="yourName">Your Name</string>
+    <string name="name">Enter your name</string>
+    <string name="yourEmail">Your email</string>
+    <string name="email">Enter your email</string>
+    <string name="picture">Your picture</string>
+    <string name="takePicture">Click the button above to take a picture</string>
+
+
 
 
 </resources>
