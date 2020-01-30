@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
-        android:text="@string/TextView1" />
+        android:text="@string/TextView1"/>
 
     <EditText
         android:id="@+id/email1"

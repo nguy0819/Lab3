@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import android.util.Log;
 import android.widget.TextView;
 
-public class ProfileActivity extends AppCompatActivity {
+public class ProfileActivity extends AppCompatActivity  {
     private ImageButton button;
     static final int REQUEST_IMAGE_CAPTURE = 1;
     private ImageButton mImageButton;
