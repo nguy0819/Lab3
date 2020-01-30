@@ -41,12 +41,7 @@ public class ProfileActivity extends AppCompatActivity {
 
     }
 
-    private void dispatchTakePictureIntent() {
-        Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-        if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
-            startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
-        }
-    }
+
 
 
     @Override
@@ -59,6 +54,12 @@ public class ProfileActivity extends AppCompatActivity {
         Log.e(ACTIVITY_NAME, "In function: onActivityResult");
     }
 
+    private void dispatchTakePictureIntent() {
+        Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
+            startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
+        }
+    }
 
     @Override
     protected void onStart() {

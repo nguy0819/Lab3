@@ -5,7 +5,7 @@
     <string name="TextView2" translatable="false">Nhập password</string>
     <string name="Email" translatable="false">Gõ email vào đây</string>
     <string name="PassWord" translatable="false">Gõ password</string>
-    <string name="Login">ĐĂNG NHẬP</string>
+    <string name="Login">ĐANG NHAP</string>
     <string name="yourProfile">LÝ LỊCH CỦA BẠN</string>
     <string name="yourName">Họ và tên</string>
     <string name="name">Nhập vào tên bạn</string>
